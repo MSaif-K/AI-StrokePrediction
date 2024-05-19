@@ -1,4 +1,4 @@
-# AI/ML-StrokePrediction
+# AI/ML Stroke Prediction - Python
 
 The goal of this project is to develop a machine learning model that estimates the risk of stroke.
 It trains two models (Decision Tree & Random Forest) to find patterns between patient characteristics
